@@ -1,7 +1,7 @@
-# ValeraValerkin
+# valera_marginalov
 
 
-![Unit Tests & Lint](https://github.com/dmitrykleptsov/valera_marginalov/actions/workflows/main.yml/badge.svg?branch=master)
+[![Unit Tests & Lint](https://github.com/dmitrykleptsov/valera_marginalov/actions/workflows/main.yml/badge.svg)](https://github.com/dmitrykleptsov/valera_marginalov/actions/workflows/main.yml/)
 
 ## Install
 
