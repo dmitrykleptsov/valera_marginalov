@@ -1,4 +1,4 @@
-# ValeraValerkin
+# Valera Marginalov
 
 
 ![Unit Tests & Lint](https://github.com/MarkendroiD/ValeraLab/actions/workflows/main.yml/badge.svg?branch=master)
