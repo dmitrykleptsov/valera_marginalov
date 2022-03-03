@@ -1,7 +1,7 @@
 # ValeraValerkin
 
 
-![Unit Tests & Lint](https://github.com/MarkendroiD/ValeraLab/actions/workflows/main.yml/badge.svg?branch=master)
+![Unit Tests & Lint](https://github.com/dmitrykleptsov/valera_marginalov/actions/workflows/main.yml/badge.svg?branch=master)
 
 ## Install
 
